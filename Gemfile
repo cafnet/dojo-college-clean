@@ -80,3 +80,5 @@ gem 'open_badges'
 
 gem 'test_helper'
 gem 'test-unit'
+
+gem 'immunio'
